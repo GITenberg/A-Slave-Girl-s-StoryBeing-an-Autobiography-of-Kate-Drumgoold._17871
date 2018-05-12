@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7664'
     url: http://www.gutenberg.org/2009/agents/7664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17871#A-Slave-Girl-s-StoryBeing-an-Autobiography-of-Kate-Drumgoold.
 gutenberg_issued: '2006-02-27'
 gutenberg_type: Text
 identifiers:
